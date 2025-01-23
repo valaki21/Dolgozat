@@ -69,9 +69,9 @@ fogalom leírása
 ## Áthúzás
 ~~The world is flat.~~
 ## Feladatlista
-[x] Megírni a sajtóközleményt
-[] Frissíteni a weboldalt
-[] Felvenni a kapcsolatot a médiával
+- [x] Megírni a sajtóközleményt
+- [] Frissíteni a weboldalt
+- [] Felvenni a kapcsolatot a médiával
 ## Emoji
 Ez olyan vicces! :joy:
 
