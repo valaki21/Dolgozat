@@ -60,18 +60,18 @@ Link
 }
 ```
 ## Lábjegyzet
-Itt van egy mondat lábjegyzettel.[1]
+Itt van egy mondat lábjegyzettel.[^1]
 
-[1]: Ez a lábjegyzet.
+[^1]: Ez a lábjegyzet.
 ## Definiciós lista
 fogalom:
 fogalom leírása
 ## Áthúzás
 ~~The world is flat.~~
 ## Feladatlista
-|1.| Megírni a sajtóközleményt
-|2.| Frissíteni a weboldalt
-|3.| Felvenni a kapcsolatot a médiával
+[x] Megírni a sajtóközleményt
+[] Frissíteni a weboldalt
+[] Felvenni a kapcsolatot a médiával
 ## Emoji
 Ez olyan vicces! :joy:
 
